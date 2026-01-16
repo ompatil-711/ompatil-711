@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Om Patil</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
