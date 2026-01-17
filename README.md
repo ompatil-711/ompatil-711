@@ -1,79 +1,96 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Om%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20(MERN)%20%7C%20C++%20%7C%20System%20Design&descAlignY=60&descAlign=50"/>
-</div>
+<h1 align="center">Hey 👋, I'm Om Patil</h1>
+
+<p align="center">
+<strong>Computer Science Engineering Student (2026)</strong><br/>
+Full Stack (MERN) Developer • Real-Time Systems • DSA (C++)
+</p>
+
+<p align="center">
+I enjoy building scalable web applications, designing backend systems,
+and understanding <strong>how things work under the hood</strong>.
+Currently focused on real-time architectures, clean APIs, and
+strengthening system design fundamentals.
+</p>
+
+<p align="center">
+📍 India &nbsp;•&nbsp; 💻 Open to Internships & Full-Stack Opportunities
+</p>
+
+---
+
+<img align="right" alt="coding" width="380"
+src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+
+### 🚀 What I’m Currently Doing
+- Building **full-stack & real-time applications** using MERN
+- Improving **backend architecture & system design thinking**
+- Practicing **DSA (C++)** for problem-solving depth
+- Exploring **scalable & fault-tolerant systems**
+
+---
+
+### 🤝 Let’s Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/om-patil-57820a248/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+<a href="https://leetcode.com/u/ompatilll/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
+</a>
+<a href="https://www.codechef.com/users/ompatil711" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30"/>
+</a>
+</p>
+
+📫 **Email:** ompatilll.001@gmail.com
+
+---
+
+### 🧠 Tech Stack I Work With
+
+**Languages**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+**Frontend**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+**Backend & Databases**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+**Tools & Cloud**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <a href="mailto:ompatilll.001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/om-patil-57820a248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ompatilll/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ompatil-711&layout=compact&theme=react-dark&hide_border=true" />
 </div>
 
-<br />
+---
 
-<div align="center">
-  <h2>👨‍💻 The Code & The Craft</h2>
-  <br>
-  Using <b>MERN Stack</b> to build scalable web apps & <b>C++</b> to master algorithms.
-  <br><br>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🔭 Current Focus</h3>
-        <p>System Design &<br/>Backend Architecture</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🌱 Daily Grind</h3>
-        <p>Data Structures &<br/>Algorithms (2-3 hrs/day)</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🤝 Open Source</h3>
-        <p>Contributing to<br/>React/Node Libraries</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,docker,aws,vscode" />
-</div>
-
-<br />
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompatil-711&theme=tokyonight" alt="Profile Details" />
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompatil-711&theme=tokyonight" alt="Repos per Language" />
-
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ompatil-711&theme=tokyonight" alt="Productive Time" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ompatil-711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=60&section=footer"/>
-</div>
+<p align="center">
+<i>“I don’t just build features — I try to understand the system behind them.”</i>
+</p>
