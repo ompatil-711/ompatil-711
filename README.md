@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Architecting+Fault-Tolerant+Backends;Solving+Complex+DSA+Problems+in+C%2B%2B" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/om-patil-57820a248/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -16,56 +20,34 @@
 
 <br />
 
-<h3 align="center">👋 About Me</h3>
 <div align="center">
   <p>
-    I am a <b>Computer Science Engineering Student (2026)</b> passionate about building scalable web applications.
-    <br/>
-    I enjoy designing backend systems and understanding <b>how things work under the hood</b>.
-    <br/>
-    Currently focused on real-time architectures, clean APIs, and strengthening system design fundamentals.
+    I enjoy building <b>scalable web applications</b>, designing backend systems,
+    and understanding <b>how things work under the hood</b>.
+    Currently focused on real-time architectures (Socket.io/RabbitMQ) and
+    strengthening system design fundamentals.
   </p>
 </div>
 
 <br />
 
-<h3 align="center">🚀 What I’m Currently Doing</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>Building <b>Real-Time MERN Apps</b></li>
-          <li>Improving <b>System Design Thinking</b></li>
-        </ul>
-      </td>
-      <td width="50%">
-        <ul>
-          <li>Practicing <b>DSA (C++)</b> in depth</li>
-          <li>Exploring <b>Fault-Tolerant Systems</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<h3 align="center">🧠 Tech Stack</h3>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,docker,aws,git,vscode" />
 </div>
 
 <br />
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">📊 Coding Activity</h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompatil-711&theme=tokyonight" alt="Om's Profile Details" />
-  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Om's Activity Graph" />
+  
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompatil-711&theme=tokyonight" alt="Om's Stats" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompatil-711&theme=tokyonight" alt="Om's Languages" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ompatil-711&theme=tokyonight" alt="Om's Commit Time" />
 </div>
 
 <br />
