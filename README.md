@@ -41,13 +41,17 @@
 <h3 align="center">📊 Coding Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Om's Activity Graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Om's Activity Graph" width="100%" />
   
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompatil-711&theme=tokyonight" alt="Om's Stats" />
   
+  <br/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompatil-711&theme=tokyonight" alt="Om's Languages" />
+
 </div>
 
 <br />
