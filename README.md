@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
-
 <br />
 
 <div align="center">
