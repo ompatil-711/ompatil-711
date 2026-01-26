@@ -29,7 +29,6 @@
 
 <br />
 
-
 <h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,docker,aws,git,vscode" />
