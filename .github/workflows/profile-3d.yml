@@ -5,7 +5,6 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-# PERMISSIONS FIX (Crucial for saving the image)
 permissions:
   contents: write
 
@@ -16,8 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      # UPDATED TO VERSION 0.8.0 TO FIX "NOT FOUND" ERROR
-      - uses: yoshi389105/github-profile-3d-contrib@0.8.0
+      # Switching to @main to fix the "not found" error
+      - uses: yoshi389105/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
