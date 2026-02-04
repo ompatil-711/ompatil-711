@@ -53,9 +53,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/ompatil-711/ompatil-711/actions/workflows/snake.yml">
-    <img src="https://raw.githubusercontent.com/ompatil-711/ompatil-711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
