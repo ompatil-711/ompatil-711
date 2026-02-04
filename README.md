@@ -41,12 +41,6 @@
 
 <div align="center">
 
-  <a href="https://github.com/ompatil-711/ompatil-711/actions/workflows/snake.yml">
-    <img src="https://raw.githubusercontent.com/ompatil-711/ompatil-711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-  </a>
-  
-  <br/><br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Om's Activity Graph" width="100%" />
   
   <br/><br/>
@@ -56,6 +50,12 @@
   <br/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompatil-711&theme=tokyonight" alt="Om's Languages" />
+
+  <br/><br/>
+
+  <a href="https://github.com/ompatil-711/ompatil-711/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/ompatil-711/ompatil-711/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  </a>
 
 </div>
 
