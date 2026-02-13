@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Om%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20DSA&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving&color=0099ff&height=180&section=header&text=Om%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20DSA&descAlignY=60&descAlign=50"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Architecting+Fault-Tolerant+Backends;Solving+Complex+DSA+Problems+in+C%2B%2B" alt="Typing SVG" />
