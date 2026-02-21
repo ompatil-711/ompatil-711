@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Architecting+Fault-Tolerant+Backends;Solving+Complex+DSA+Problems+in+C%2B%2B" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/om-patil-57820a248/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
