@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Om%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20DSA&descAlignY=60&descAlign=50"/>
 </div>
