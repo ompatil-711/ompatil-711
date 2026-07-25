@@ -37,7 +37,7 @@
 
 <br />
 
-<h3 align="center">📊 Coding Activity</h3>
+<!-- <h3 align="center">📊 Coding Activity</h3>
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
   <br/><br/>
  
-</div>
+</div> -->
 
 <br />
 
