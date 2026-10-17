@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./header.svg" width="100%" alt="Om Patil — Software Developer" />
 </p>
@@ -352,28 +351,13 @@ Managed logistics and vendors for a cultural festival with
 
 ## Small steps. Visible progress.
 
+I practise **data structures and algorithms in C++** and continue developing
+my understanding of backend architecture and system design.
+
 <p>
-I practise <strong>data structures and algorithms in C++</strong>
-and continue developing my understanding of backend architecture
-and system design.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ompatil-711?tab=overview">
-    <img
-      src="./activity.svg"
-      width="100%"
-      alt="Om Patil — GitHub contribution activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ompatil-711?tab=overview"><strong>GitHub activity ↗</strong></a>
-  &nbsp; · &nbsp;
   <a href="https://leetcode.com/u/ompatilll/"><strong>Problem-solving ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://ompatil.site"><strong>Portfolio &amp; projects ↗</strong></a>
+  <a href="https://github.com/ompatil-711?tab=repositories"><strong>Explore my repositories ↗</strong></a>
 </p>
 
 <br />
