@@ -4,7 +4,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1800&color=C7A76C&center=true&vCenter=true&width=680&height=55&lines=Interfaces+that+make+sense.;Systems+that+work+together.;Ideas+turned+into+working+software."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1800&amp;color=C7A76C&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=55&amp;lines=Interfaces+that+make+sense.;Systems+that+work+together.;Ideas+turned+into+working+software."
+    width="680"
     alt="Interfaces that make sense. Systems that work together. Ideas turned into working software."
   />
 </p>
@@ -105,7 +106,7 @@ with secure access and asynchronous message handling.
 </pre>
 
 <ul>
-  <li>Instant communication through WebSockets.</li>
+  <li>Instant communication through Socket.io.</li>
   <li>OTP login and JWT authentication.</li>
   <li>Session management and REST APIs.</li>
   <li>RabbitMQ with consumer reconnection handling.</li>
@@ -180,7 +181,7 @@ HTML · CSS · JavaScript · REST APIs
 
 ### ZenChat / Keeping conversations moving
 
-- Built bidirectional communication using Socket.io and WebSockets.
+- Built bidirectional communication using Socket.io.
 - Developed REST APIs for user and message management.
 - Implemented OTP-based login, JWT authentication, and session management.
 - Integrated RabbitMQ for asynchronous messaging with consumer reconnection handling.
@@ -207,7 +208,7 @@ HTML · CSS · JavaScript · REST APIs
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,postgres,mongodb,mysql,cpp,git,github,postman,vite,vercel&perline=8&theme=dark"
+    src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,postgres,mongodb,mysql,cpp,git,github,postman,vite,vercel&amp;perline=8&amp;theme=dark"
     alt="React, TypeScript, JavaScript, HTML, CSS, Node.js, Express, PostgreSQL, MongoDB, MySQL, C++, Git, GitHub, Postman, Vite, and Vercel"
   />
 </p>
@@ -356,13 +357,15 @@ and continue developing my understanding of backend architecture
 and system design.
 </p>
 
-<a href="https://github.com/ompatil-711?tab=overview">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&bg_color=151515&color=AAA69F&line=C7A76C&point=F5F2EC&area=true&area_color=967542&hide_border=true&custom_title=The%20work%20between%20the%20milestones"
-    width="100%"
-    alt="Recent GitHub contribution activity — open GitHub to view the full history"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/ompatil-711?tab=overview">
+    <img
+      src="./activity.svg"
+      width="100%"
+      alt="Om Patil — GitHub contribution activity"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ompatil-711?tab=overview"><strong>GitHub activity ↗</strong></a>
