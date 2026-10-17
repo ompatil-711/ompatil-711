@@ -1,62 +1,404 @@
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Om Patil — Software Developer" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Om%20Patil&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20DSA&descAlignY=60&descAlign=50"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E91F7&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Applications;Architecting+Fault-Tolerant+Backends;Solving+Complex+DSA+Problems+in+C%2B%2B" alt="Typing SVG" />
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/om-patil-57820a248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1800&color=C7A76C&center=true&vCenter=true&width=680&height=55&lines=Interfaces+that+make+sense.;Systems+that+work+together.;Ideas+turned+into+working+software."
+    alt="Interfaces that make sense. Systems that work together. Ideas turned into working software."
+  />
+</p>
+
+<p align="center">
+  <a href="https://ompatil.site"><strong>Explore portfolio ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/om-patil-57820a248/">LinkedIn</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ompatilll/">LeetCode</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:ompatilll.001@gmail.com">Get in touch</a>
+</p>
+
+<br />
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<sub>THE DEVELOPER BEHIND THE CODE</sub>
+
+<h3>I like making the pieces work together.</h3>
+
+<p>
+The interface, the API, the database—the interesting part is how they connect.
+</p>
+
+<p>
+I’m a <strong>Full-Stack Software Developer</strong> building responsive
+applications and reliable backend workflows with
+<strong>React, TypeScript, Node.js, and PostgreSQL</strong>.
+</p>
+
+<p>
+I care about software that’s straightforward to use, understand, and maintain.
+</p>
+
+</td>
+<td width="35%" valign="top">
+
+<sub>CURRENT CONTEXT</sub>
+
+<p>
+<strong>Building professionally</strong><br />
+Junior Software Developer · JoinWith
+</p>
+
+<p>
+<strong>Engineering foundation</strong><br />
+B.Tech CSE · VIT · 2026
+</p>
+
+<p>
+<strong>Academic record</strong><br />
+8.47 / 10 CGPA
+</p>
+
+<p>
+<strong>Practising the fundamentals</strong><br />
+Data structures &amp; algorithms · C++
+</p>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## The workbench
+
+> A few things I’ve taken from an idea to a working application.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>01 / CONVERSATIONS, CONNECTED</sub>
+
+<h2>ZenChat</h2>
+
+<p><strong>A message should feel instant.</strong></p>
+
+<p>
+A full-stack messaging application connecting real-time conversations
+with secure access and asynchronous message handling.
+</p>
+
+<pre>
+  SIGN IN
+     │
+     ▼
+  CONNECT  ←────→  EXCHANGE
+     │               │
+     └───────┬───────┘
+             ▼
+      ASYNC PROCESSING
+</pre>
+
+<ul>
+  <li>Instant communication through WebSockets.</li>
+  <li>OTP login and JWT authentication.</li>
+  <li>Session management and REST APIs.</li>
+  <li>RabbitMQ with consumer reconnection handling.</li>
+</ul>
+
+<p>
+<strong>Delivered with</strong><br />
+React · Node.js · Express · Socket.io · RabbitMQ
+</p>
+
+<br />
+
+<p>
+<a href="https://zenchat.online"><strong>Open application ↗</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/ompatil-711/ZenChat">Source code →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 / INFORMATION INTO ACTION</sub>
+
+<h2>Agro-Aid</h2>
+
+<p><strong>Useful information belongs within reach.</strong></p>
+
+<p>
+A responsive agriculture platform bringing weather forecasts,
+multilingual support, and recommendation interfaces together.
+</p>
+
+<pre>
+  WEATHER       USER INPUT
+     │               │
+     ▼               ▼
+  FORECASTS     PREDICTION APIs
+     │               │
+     └───────┬───────┘
+             ▼
+      ACCESSIBLE INTERFACE
+</pre>
+
+<ul>
+  <li>Responsive layouts and validated input forms.</li>
+  <li>Live weather and five-day forecasts.</li>
+  <li>Crop and fertilizer prediction API integration.</li>
+  <li>Multilingual support through Google Translate.</li>
+</ul>
+
+<p>
+<strong>Delivered with</strong><br />
+HTML · CSS · JavaScript · REST APIs
+</p>
+
+<br />
+
+<p>
+<a href="https://ompatil-711.github.io/Agro-Aid-Portfolio/"><strong>Open application ↗</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/ompatil-711/Agro-Aid-Portfolio">Source code →</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Open the engineering notes</strong></summary>
+
+<br />
+
+### ZenChat / Keeping conversations moving
+
+- Built bidirectional communication using Socket.io and WebSockets.
+- Developed REST APIs for user and message management.
+- Implemented OTP-based login, JWT authentication, and session management.
+- Integrated RabbitMQ for asynchronous messaging with consumer reconnection handling.
+- Deployed the frontend and backend on Vercel and Render.
+
+### Agro-Aid / Connecting information to an interface
+
+- Led frontend development and responsive layout implementation.
+- Integrated OpenWeatherMap for live weather and five-day forecasts.
+- Connected crop and fertilizer forms to backend prediction APIs using Fetch.
+- Added form validation and multilingual support.
+
+</details>
+
+<p align="right">
+  <a href="https://github.com/ompatil-711?tab=repositories">
+    More repositories, experiments, and things built →
   </a>
-  <a href="mailto:ompatilll.001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ompatilll/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</div>
-<br />
-
-<div align="center">
-  <p>
-    I enjoy building <b>scalable web applications</b>, designing backend systems,
-    and understanding <b>how things work under the hood</b>.
-    Currently focused on real-time architectures (Socket.io/RabbitMQ) and
-    strengthening system design fundamentals.
-  </p>
-</div>
+</p>
 
 <br />
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,docker,aws,git,vscode" />
-</div>
+## Tools behind the work
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,postgres,mongodb,mysql,cpp,git,github,postman,vite,vercel&perline=8&theme=dark"
+    alt="React, TypeScript, JavaScript, HTML, CSS, Node.js, Express, PostgreSQL, MongoDB, MySQL, C++, Git, GitHub, Postman, Vite, and Vercel"
+  />
+</p>
 
 <br />
 
-<!-- <h3 align="center">📊 Coding Activity</h3>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<div align="center">
+<h3>The interface</h3>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Om's Activity Graph" width="100%" />
-  
-  <br/><br/>
-  <img src= "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ompatil-711&theme=tokyonight" alt="Om's Stats" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ompatil-711&theme=tokyonight" alt="Om's Languages" />
+<p><em>Where the system meets its user.</em></p>
 
-  <br/><br/>
- 
-</div> -->
+<p>
+<strong>React · TypeScript · JavaScript</strong><br />
+HTML5 · CSS3 · React Bootstrap · Vite
+</p>
+
+<p>
+Responsive layouts, reusable components, form validation,
+and frontend-backend integration.
+</p>
+
+</td>
+<td width="34%" valign="top">
+
+<h3>The machinery</h3>
+
+<p><em>Where requests become results.</em></p>
+
+<p>
+<strong>Node.js · Express · Socket.io</strong><br />
+RabbitMQ · ExcelJS · PDFKit
+</p>
+
+<p>
+REST APIs, authentication, asynchronous messaging,
+Excel imports, and PDF reporting.
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>The foundation</h3>
+
+<p><em>Where structure supports the work.</em></p>
+
+<p>
+<strong>PostgreSQL · TypeORM · SQL</strong><br />
+MongoDB · MySQL · C++
+</p>
+
+<p>
+Data modeling, transactions, database queries,
+and problem-solving fundamentals.
+</p>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Access, tooling &amp; delivery</strong></summary>
 
 <br />
 
+| Concern | My toolkit |
+| :--- | :--- |
+| Identity & access | JWT, OTP verification, RBAC, session management |
+| API protection | Rate limiting |
+| Development workflow | Git, GitHub, Postman |
+| Deployment | Vercel, Render |
+| Core concepts | Data structures & algorithms, OOP, DBMS, database transactions |
+
+</details>
+
+<br />
+
+## From learning to delivering
+
+**JoinWith · Full-stack development**
+
+<pre>
+  MARCH 2026
+      │
+      ●  Full Stack Developer Intern
+      │  Remote · March–June 2026
+      │
+  JUNE 2026
+      │
+      ●  Junior Software Developer
+      │  Nagpur · Onsite
+      │
+      ↓  Present
+</pre>
+
+Working across **React 19, TypeScript, Node.js, Express 5, and PostgreSQL**,
+with experience in:
+
+- Business interfaces and REST API integration.
+- Authentication, authorization, and API rate limiting.
+- Transaction-backed database workflows.
+- Bulk Excel imports and PDF invoice generation.
+- Frontend-backend coordination and feature testing.
+
+<details>
+<summary><strong>A little beyond the job title</strong></summary>
+
+<br />
+
+### Engineering education
+
+**Vellore Institute of Technology**  
+B.Tech in Computer Science and Engineering  
+October 2026 · CGPA **8.47/10**
+
+### Formal learning
+
+**SmartBridge**  
+Full Stack Web Development — MERN Stack
+
+### Community work
+
+**Social Volunteer · December 2025**
+
+Participated in organic farming and vermicomposting awareness
+activities across five villages in Jalna.
+
+### Event leadership
+
+**Marathi Club, VIT · 2024–2025**
+
+Managed logistics and vendors for a cultural festival with
+500+ attendees, achieving a 15% budget surplus.
+
+</details>
+
+<br />
+
+## Small steps. Visible progress.
+
+<p>
+I practise <strong>data structures and algorithms in C++</strong>
+and continue developing my understanding of backend architecture
+and system design.
+</p>
+
+<a href="https://github.com/ompatil-711?tab=overview">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ompatil-711&bg_color=151515&color=AAA69F&line=C7A76C&point=F5F2EC&area=true&area_color=967542&hide_border=true&custom_title=The%20work%20between%20the%20milestones"
+    width="100%"
+    alt="Recent GitHub contribution activity — open GitHub to view the full history"
+  />
+</a>
+
+<p align="center">
+  <a href="https://github.com/ompatil-711?tab=overview"><strong>GitHub activity ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://leetcode.com/u/ompatilll/"><strong>Problem-solving ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://ompatil.site"><strong>Portfolio &amp; projects ↗</strong></a>
+</p>
+
+<br />
+
+---
+
 <div align="center">
-  <i>“I don’t just build features — I try to understand the system behind them.”</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=60&section=footer"/>
+
+<sub>THE NEXT THING DOESN’T EXIST YET</sub>
+
+<h2>Maybe we should build it.</h2>
+
+<p>
+A software development opportunity, a project,<br />
+or an interesting problem to think through.
+</p>
+
+<p>
+<a href="mailto:ompatilll.001@gmail.com"><strong>Start a conversation ↗</strong></a>
+</p>
+
+<br />
+
+<p>
+<a href="https://ompatil.site">ompatil.site</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/om-patil-57820a248/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/ompatil-711?tab=repositories">Repositories</a>
+</p>
+
 </div>
