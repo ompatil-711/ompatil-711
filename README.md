@@ -2,7 +2,6 @@
 <p align="center">
   <img src="./header.svg" width="100%" alt="Om Patil — Software Developer" />
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1800&amp;color=C7A76C&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=55&amp;lines=Interfaces+that+make+sense.;Systems+that+work+together.;Ideas+turned+into+working+software."
